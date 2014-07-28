@@ -11,5 +11,5 @@ Se você ainda não tem tanta familiaridade com o plugin Contact Form 7, veja al
 
 ###Versões do plugin Contact Form 7
 
-- [Até a versão 3.8.1](https://gist.github.com/marcelinol/082b91e3c7d9bc12da06)
+- [Até a versão 3.8.1](integration_wp_cf7_3_8_1.md)
 - [Versão 3.9](https://gist.github.com/marcelinol/b123e0ff13e5dcfb6914)
